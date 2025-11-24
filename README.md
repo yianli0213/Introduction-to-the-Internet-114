@@ -8,7 +8,9 @@
 系級：科技系四年級
 
 ## 課程筆記區
-+ [HW1](https://yianli0213.github.io/yianfindmyself/)
+
 ## 作業連結區
++ [HW1](https://yianli0213.github.io/yianfindmyself/)
++ [HW2 API呼叫](https://youtu.be/hM52nsiLLpM/)
 ## 專題連結區
 https://markdown.tw/
