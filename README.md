@@ -11,6 +11,8 @@
 https://markdown.tw/
 ## 作業連結區
 + [HW1](https://yianli0213.github.io/yianfindmyself/)
-+ [HW2 API呼叫](https://youtu.be/hM52nsiLLpM/)
++ [HW2]
+  [API呼叫](https://youtu.be/hM52nsiLLpM/)
+  [AI API串接](https://youtu.be/Vu3qq4xyTg4/)
 ## 專題連結區
 
